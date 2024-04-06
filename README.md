@@ -1,4 +1,4 @@
-### Assignment: Redux II - Todo App using Redux + JSON Server
+# Assignment: Redux II - Todo App using Redux + JSON Server
 
 ## Assignment Description:
 
@@ -28,7 +28,7 @@
 
 ## How to Use:
 
-# To run the application, follow these steps:
+### To run the application, follow these steps:
 
 1. Clone this repository.
 
@@ -38,7 +38,7 @@
 
 4. Start the app: npm run dev
 
-### Usage:
+## Usage:
 
 - Add a new todo: Enter the todo title in the input field and press Enter.
 
@@ -48,11 +48,11 @@
 
 - Delete a todo: Click on the delete button next to the todo.
 
-# Theme Toggle:
+## Theme Toggle:
 
 - To toggle between light and dark themes, click on the theme toggle button located in the app header.
 
-# Filtering Todos:
+## Filtering Todos:
 
 - To filter todos based on their status, use the filter buttons located above the todo list.
 - Click on 'All', 'Completed', or 'Pending' to filter the todos accordingly.
@@ -69,10 +69,10 @@
 
 - Redux-thunk
 
-### Now Future Tasks/Developer's Task who will gonna use this repo!
+## Now Future Tasks/Developer's Task who will gonna use this repo!
 
-# Responsiveness: Ensure the application is responsive and works well on various devices and screen sizes.
+- ### Responsiveness: Ensure the application is responsive and works well on various devices and screen sizes.
 
-# Real Backend Implementation: Replace the JSON Server with a real backend solution for deployment, such as Node.js with Express and MongoDB.
+- ### Real Backend Implementation: Replace the JSON Server with a real backend solution for deployment, such as Node.js with Express and MongoDB.
 
-# Additional Input Fields: Add more input fields for the user, such as a description field for each todo, to provide more context or details.
+- ### Additional Input Fields: Add more input fields for the user, such as a description field for each todo, to provide more context or details.
