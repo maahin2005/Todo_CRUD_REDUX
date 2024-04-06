@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "CRUD Todos",
+      "status": false
+    },
+    {
+      "id": 1712421958747,
+      "title": "Learning Todo App",
+      "status": false
+    },
+    {
+      "id": 1712422815304,
+      "title": "Theme Added",
+      "status": true
+    },
+    {
+      "id": 1712422973269,
+      "title": "Todo CRUD Assignment!",
+      "status": true
+    },
+    {
+      "id": 1712430151172,
+      "title": "Learning Input Variable",
+      "status": true
+    },
+    {
+      "id": 1712430169440,
+      "title": "Delete Operation Done",
+      "status": false
+    },
+    {
+      "id": 1712430193689,
+      "title": "Login Page Implemented ",
+      "status": true
+    },
+    {
+      "id": 1712437671519,
+      "title": "Last Checking ",
+      "status": true
+    }
+  ]
+}
