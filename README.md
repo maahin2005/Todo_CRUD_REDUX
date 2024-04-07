@@ -1,5 +1,8 @@
 # Assignment: Redux II - Todo App using Redux + JSON Server
 
+## Live Presentation - <a target="_blank" href='https://www.linkedin.com/feed/update/urn:li:activity:7182628286231961601/'>Watch Now</a>
+
+
 ## Assignment Description:
 
 - You are tasked with creating a Todo application using Redux for state management and JSON Server to store the todos. The application should allow users to add a todo, update it (toggle its status and edit the title), and delete it. All changes should be reflected in the db.json file used by JSON Server.
